@@ -1,7 +1,7 @@
 # 🛒 E-Commerce User Segmentation using K-Means Clustering
 
 ## 📌 Objective
-To segment users based on their behavior in an e-commerce platform and identify meaningful customer groups for better business decision-making.
+User segmentation on e-commerce behavioral data using Unsupervised Learning (K-Means Clustering) with feature engineering and cluster analysis for business insights.
 
 ---
 
